@@ -1,4 +1,6 @@
-# Description
+![](/static/banner.png)
+
+## Description
 
 Nikelligence is a tool allowing you to look up an email address or a name on Nike Run Club (NRC) fitness app.
 ##### Using this tool to search for a name will typically return results that include users' email addresses. We've added filtering utilities to help refine these results.
